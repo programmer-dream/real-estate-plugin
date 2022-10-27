@@ -1,0 +1,224 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-realse 1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-25 10:47-0400\n"
+"PO-Revision-Date: 2022-08-26 18:41+0530\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid "Listing"
+msgstr "Listado"
+
+msgid "Sales"
+msgstr "Ventas"
+
+msgid "Short Term Rental"
+msgstr "Alquiler a corto plazo"
+
+msgid "Long Term Rental"
+msgstr "Alquiler a largo plazo"
+
+msgid "Featured"
+msgstr "Destacado"
+
+msgid "No data found, please try again"
+msgstr "No se encontraron datos, intente nuevamente"
+
+msgid "Property Type"
+msgstr "Tipo de propiedad"
+
+msgid "Location"
+msgstr "Ubicación"
+
+msgid "Min Price"
+msgstr "Precio mínimo"
+
+msgid "Copy link for this search to clipboard"
+msgstr "Copiar enlace para esta búsqueda al portapapeles"
+
+msgid "Select"
+msgstr "Seleccione"
+
+msgid "Max Price"
+msgstr "Precio máximo"
+
+msgid "Bedroom"
+msgstr "Dormitorio"
+
+msgid "No data found"
+msgstr "Datos no encontrados"
+
+msgid "Max Price can not be less than Min Price"
+msgstr "El precio máximo no puede ser inferior al precio mínimo"
+
+msgid "You entered blank, please try again"
+msgstr "Ingresaste en blanco, por favor inténtalo de nuevo"
+
+msgid "Search"
+msgstr "Búsqueda"
+
+msgid "Advanced search"
+msgstr "Búsqueda Avanzada"
+
+msgid "Reference number"
+msgstr "Número de referencia"
+
+msgid "Share Property Search"
+msgstr "Compartir búsqueda de propiedades"
+
+msgid "Resales Ref#"
+msgstr "Referencia de reventa#"
+
+msgid "Page"
+msgstr "Página"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid "in"
+msgstr "en"
+
+msgid "Back to list"
+msgstr "Volver a la lista"
+
+msgid "Holiday Rentals"
+msgstr "Alquileres de vacaciones"
+
+msgid "Reference"
+msgstr "Referencia"
+
+msgid "Terrace"
+msgstr "Terraza"
+
+msgid "Garden Plot"
+msgstr "Parcela de jardín"
+
+msgid "Build Size"
+msgstr "Tamaño de construcción"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Price Ascending"
+msgstr "Precio Ascendente"
+
+msgid "Price Descending"
+msgstr "Precio Descendente"
+
+msgid "Latest Updated"
+msgstr "Última actualización"
+
+msgid "Sort by"
+msgstr "Ordenar por"
+
+msgid "Oldest Updated"
+msgstr "Más antiguo actualizado"
+
+msgid "Latest List"
+msgstr "Última lista"
+
+msgid "Oldest List"
+msgstr "Lista más antigua"
+
+msgid "API Key"
+msgstr "Clave API"
+
+msgid "Beds"
+msgstr "Camas"
+
+msgid "Bath"
+msgstr "Bañera"
+
+msgid "Build"
+msgstr "Construir"
+
+msgid "Year Built"
+msgstr "Año de construcción"
+
+msgid "Property highlights"
+msgstr "Aspectos destacados de la propiedad"
+
+msgid "Read More"
+msgstr "Leer más"
+
+msgid "For Sale"
+msgstr "En venta"
+
+msgid "Long Term Rentals"
+msgstr "Alquileres de larga duración"
+
+msgid "per"
+msgstr "por"
+
+msgid "Features"
+msgstr "Características"
+
+msgid "Taxes & Fees"
+msgstr "Impuestos y pagos"
+
+msgid "Energy Certificate"
+msgstr "Certificado Energético"
+
+msgid "Ask about this Property"
+msgstr "Aspectos destacados de la propiedad"
+
+msgid "First Name"
+msgstr "Primer nombre"
+
+msgid "Last Name"
+msgstr "Apellido"
+
+msgid "Telephone"
+msgstr "Teléfono"
+
+msgid "Email"
+msgstr "Correo electrónico"
+
+msgid "Energy Rating"
+msgstr "Certificado Energético"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Bedrooms"
+msgstr "Dormitorios"
+
+msgid "CLICK TO INQUIRE"
+msgstr "HAGA CLIC PARA CONSULTAR"
+
+msgid "No Location found"
+msgstr "No se encontró ninguna ubicación"
+
+msgid "IBI Fees"
+msgstr "Tasas del IBI"
+
+msgid "Basura Tax Fees"
+msgstr "Tasas de impuestos de Basura"
+
+msgid "Community Fees"
+msgstr "Tarifas de comunidad"
+
+msgid "per year"
+msgstr "por año"
+
+msgid "No Certificate available"
+msgstr "No hay certificado disponible"

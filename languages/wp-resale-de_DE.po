@@ -1,0 +1,215 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-realse 1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-25 10:47-0400\n"
+"PO-Revision-Date: 2022-08-26 19:04+0530\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid "Listing"
+msgstr "Auflistung"
+
+msgid "Sales"
+msgstr "Verkauf"
+
+msgid "Short Term Rental"
+msgstr "Kurzfristige Vermietung"
+
+msgid "Long Term Rental"
+msgstr "Langzeitmiete"
+
+msgid "Featured"
+msgstr "Hervorgehoben"
+
+msgid "No data found, please try again"
+msgstr "Keine Daten gefunden, bitte versuchen Sie es erneut"
+
+msgid "Property Type"
+msgstr "Art der Immobilie"
+
+msgid "Location"
+msgstr "Ort"
+
+msgid "Min Price"
+msgstr "Mindestpreis"
+
+msgid "Copy link for this search to clipboard"
+msgstr "Link für diese Suche in die Zwischenablage kopieren"
+
+msgid "Select"
+msgstr "Auswählen"
+
+msgid "Max Price"
+msgstr "Maximaler Preis"
+
+msgid "No data found"
+msgstr "Keine Daten gefunden"
+
+msgid "Max Price can not be less than Min Price"
+msgstr "Der Höchstpreis kann nicht kleiner als der Mindestpreis sein"
+
+msgid "You entered blank, please try again"
+msgstr "Sie haben nichts eingegeben, bitte versuchen Sie es erneut"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Advanced search"
+msgstr "Erweiterte Suche"
+
+msgid "Reference number"
+msgstr "Referenznummer"
+
+msgid "Share Property Search"
+msgstr "Immobiliensuche teilen"
+
+msgid "Resales Ref#"
+msgstr "Weiterverkauf Ref#"
+
+msgid "Page"
+msgstr "Buchseite"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "View"
+msgstr "Aussicht"
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "Read More"
+msgstr "Weiterlesen"
+
+msgid "Back to list"
+msgstr "Zurück zur Liste"
+
+msgid "Holiday Rentals"
+msgstr "Ferienwohnungen"
+
+msgid "Reference"
+msgstr "Bezug"
+
+msgid "Terrace"
+msgstr "Terrasse"
+
+msgid "Garden Plot"
+msgstr "Gartengrundstück"
+
+msgid "Build Size"
+msgstr "Baugröße"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Price Ascending"
+msgstr "Preis aufsteigend"
+
+msgid "Price Descending"
+msgstr "Preis absteigend"
+
+msgid "Latest Updated"
+msgstr "Zuletzt aktualisiert"
+
+msgid "Oldest Updated"
+msgstr "Älteste aktualisiert"
+
+msgid "Latest List"
+msgstr "Neueste Liste"
+
+msgid "Oldest List"
+msgstr "Älteste List"
+
+msgid "API Key"
+msgstr "Clave API"
+
+msgid "Beds"
+msgstr "Camas"
+
+msgid "Bath"
+msgstr "Bañera"
+
+msgid "Build"
+msgstr "Construir"
+
+msgid "Year Built"
+msgstr "Año de construcción"
+
+msgid "Property highlights"
+msgstr "Immobilien-Highlights"
+
+msgid "For Sale"
+msgstr "Zu verkaufen"
+
+msgid "Long Term Rentals"
+msgstr "Langzeitmieten"
+
+msgid "per"
+msgstr "pro"
+
+msgid "Features"
+msgstr "Merkmale"
+
+msgid "Taxes & Fees"
+msgstr "Steuern"
+
+msgid "Energy Certificate"
+msgstr "Energieausweis"
+
+msgid "Ask about this Property"
+msgstr "Fragen Sie nach dieser Immobilie"
+
+msgid "First Name"
+msgstr "Vorname"
+
+msgid "Last Name"
+msgstr "Nachname"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Energy Rating"
+msgstr "Energiebewertung"
+
+msgid "Price"
+msgstr "Preis"
+
+msgid "Bedrooms"
+msgstr "Schlafzimmer"
+
+msgid "CLICK TO INQUIRE"
+msgstr "ANFRAGE KLICKEN"
+
+msgid "No Location found"
+msgstr "Kein Standort gefunden"
+
+msgid "IBI Fees"
+msgstr "IBI-Gebühren"
+
+msgid "Basura Tax Fees"
+msgstr "Tasas de impuestos de BasuraBasura-Steuergebühren"
+
+msgid "Community Fees"
+msgstr "Gemeinschaftsgebühren"
+
+msgid "per year"
+msgstr "pro Jahr"
+
+msgid "No Certificate available"
+msgstr "Kein Zertifikat verfügbar"

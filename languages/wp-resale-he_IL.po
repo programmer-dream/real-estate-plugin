@@ -1,0 +1,200 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-realse 1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-25 10:47-0400\n"
+"PO-Revision-Date: 2022-08-26 19:17+0530\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid "Listing"
+msgstr "רישום"
+
+msgid "Sales"
+msgstr "מכירות"
+
+msgid "Short Term Rental"
+msgstr "השכרה לטווח קצר"
+
+msgid "Long Term Rental"
+msgstr "השכרה לטווח ארוך"
+
+msgid "Featured"
+msgstr "מומלצים"
+
+msgid "No data found, please try again"
+msgstr "לא נמצאו נתונים, אנא נסה שוב"
+
+msgid "Property Type"
+msgstr "סוג נכס"
+
+msgid "Location"
+msgstr "מקום"
+
+msgid "Min Price"
+msgstr "מחיר מינימלי"
+
+msgid "Copy link for this search to clipboard"
+msgstr "העתק קישור לחיפוש זה ללוח"
+
+msgid "Select"
+msgstr "בחר"
+
+msgid "Max Price"
+msgstr "מחיר מקסימלי"
+
+msgid "Bedroom"
+msgstr "חדר שינה"
+
+msgid "No data found"
+msgstr "לא נמצאו נתונים"
+
+msgid "Max Price can not be less than Min Price"
+msgstr "המחיר המקסימלי לא יכול להיות נמוך ממחיר המינימום"
+
+msgid "You entered blank, please try again"
+msgstr "הזנת ריק, אנא נסה שוב"
+
+msgid "Search"
+msgstr "לחפש"
+
+msgid "Advanced search"
+msgstr "חיפוש מתקדם"
+
+msgid "Reference number"
+msgstr "מספר סימוכין"
+
+msgid "Share Property Search"
+msgstr "שתף חיפוש נכסים"
+
+msgid "Resales Ref#"
+msgstr "Ref #"
+
+msgid "Page"
+msgstr "עמוד"
+
+msgid "Save"
+msgstr "להציל"
+
+msgid "View"
+msgstr "נוף"
+
+msgid "Image"
+msgstr "תמונה"
+
+msgid "Read More"
+msgstr "קרא עוד"
+
+msgid "Sort by"
+msgstr "מיין לפי"
+
+msgid "Price Ascending"
+msgstr "מחיר עולה"
+
+msgid "Price Descending"
+msgstr "המחיר יורד"
+
+msgid "Latest Updated"
+msgstr "מעודכן לאחרונה"
+
+msgid "Oldest Updated"
+msgstr "הישן ביותר המעודכן"
+
+msgid "Latest List"
+msgstr "רשימה אחרונה"
+
+msgid "Oldest List"
+msgstr "הרשימה הישנה ביותר"
+
+msgid "API Key"
+msgstr "מפתח API"
+
+msgid "Beds"
+msgstr "מיטות"
+
+msgid "Bath"
+msgstr "מֶרחָץ"
+
+msgid "Build"
+msgstr "לִבנוֹת"
+
+msgid "Property highlights"
+msgstr "דגשים בנכס"
+
+msgid "Year Built"
+msgstr "שנת יצור"
+
+msgid "For Sale"
+msgstr "למכירה"
+
+msgid "Long Term Rentals"
+msgstr "השכרות לטווח ארוך"
+
+msgid "per"
+msgstr "לְכָל"
+
+msgid "Features"
+msgstr "תכונות"
+
+msgid "Taxes & Fees"
+msgstr "מיסים וחובות"
+
+msgid "Energy Certificate"
+msgstr "תעודת אנרגיה"
+
+msgid "Ask about this Property"
+msgstr "שאל על נכס זה"
+
+msgid "First Name"
+msgstr "שם פרטי"
+
+msgid "Last Name"
+msgstr "שם משפחה"
+
+msgid "Telephone"
+msgstr "טֵלֵפוֹן"
+
+msgid "Email"
+msgstr "אימייל"
+
+msgid "Energy Rating"
+msgstr "דירוג אנרגיה"
+
+msgid "Price"
+msgstr "מחיר"
+
+msgid "Bedrooms"
+msgstr "חדרי שינה"
+
+msgid "CLICK TO INQUIRE"
+msgstr "לחץ כדי לברר"
+
+msgid "No Location found"
+msgstr "לא נמצא מיקום"
+
+msgid "IBI Fees"
+msgstr "עמלות IBI"
+
+msgid "Basura Tax Fees"
+msgstr "עמלות מס בסורה"
+
+msgid "Community Fees"
+msgstr "דמי קהילה"
+
+msgid "per year"
+msgstr "לשנה"
+
+msgid "No Certificate available"
+msgstr "אין תעודה זמינה"
